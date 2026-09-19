@@ -4,7 +4,7 @@
 
 ### 🚀 安装方式
 1. 浏览器安装 [Tampermonkey (油猴插件)](https://www.tampermonkey.net/)
-2. 点击此链接直接一键安装：👉 [**点击安装脚本**](https://raw.githubusercontent.com/<你的GitHub用户名>/hoj-quick-add/main/hoj-quick-add.user.js)
+2. 点击此链接直接一键安装：👉 [**点击安装脚本**](https://raw.githubusercontent.com/OnceValleyAmple/hoj-quick-add/main/hoj-quick-add.user.js)
 
 ### ✨ 功能特性
 - **Markdown 智能解析**：自动切分描述、输入、输出、样例及提示说明。
