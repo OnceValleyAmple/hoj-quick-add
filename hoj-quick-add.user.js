@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         HOJ 一键添加题目 - Markdown粘贴即创建 v2.1
-// @namespace    https://hoj.example.com/
-// @version      2.1 - 标签模糊搜索下拉多选+展示ID留空自动递增+固定面板尺寸
+// @namespace    https://github.com/<你的GitHub用户名>/hoj-quick-add
+// @version      2.1
 // @description  v2.1：新增标签模糊搜索下拉多选；展示ID留空自动递增分配并判重重试；面板固定居中尺寸；沿用提示栏合并、曜石黑按钮、examples原生格式、难度0-8、默认公开、完整预览、样例双写
 // @author       Assistant
 // @match        *://*/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/OnceValleyAmple/hoj-quick-add/main/hoj-quick-add.user.js
+// @downloadURL  https://raw.githubusercontent.com/OnceValleyAmple/hoj-quick-add/main/hoj-quick-add.user.js
 // ==/UserScript==
 
 (function () {
